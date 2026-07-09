@@ -90,11 +90,13 @@ Records: **100,000+**
 
 ### Executive Dashboard
 
-*(Image will be inserted here)*
+<img width="1296" height="683" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/52982aca-11e0-4483-9bea-cd5cde2e3f9d" />
+
 
 ### Customer Insights
 
-*(Image will be inserted here)*
+<img width="1340" height="480" alt="Customer_Insights" src="https://github.com/user-attachments/assets/17c5a5b3-e9da-4281-91e1-5d32ec478254" />
+
 
 # 👨‍💻 Author
 
